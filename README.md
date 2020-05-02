@@ -42,6 +42,3 @@ A unix test daemon that sends messages to the syslog.
        make clean
        ````
     Installation done. The daemon is installed and ready to use. The daemon executable is “testd” and is located in /usr/local/bin.
-     
-     
- 

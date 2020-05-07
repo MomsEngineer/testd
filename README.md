@@ -1,5 +1,5 @@
 # testd
-A unix test daemon that sends messages to the syslog.
+A unix test daemon that sends messages to the syslog. The messages look like: NIIT. UNIX Course. The task of configuring systemd. 
 
 # Install
 1. Download the daemon. Get the daemon you can two ways:
